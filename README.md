@@ -7,4 +7,8 @@
 
 * Spring boot
 * Spring Mail
+    * Java Mail Sender   
+* Thymleaf
+* Html
+* CSS
 * 
